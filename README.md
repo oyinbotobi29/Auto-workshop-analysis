@@ -15,7 +15,7 @@ Tools Used
 Key Insights
 •	Revenue trends over time 
 •	Top-performing services 
-•	Technician performance 
+•	Technician performance
 •	Payment method analysis 
 
 Author
